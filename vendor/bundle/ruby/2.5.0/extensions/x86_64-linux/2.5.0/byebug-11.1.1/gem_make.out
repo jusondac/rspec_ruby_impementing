@@ -1,0 +1,19 @@
+current directory: /home/rejka/Documents/latihan_project/auctions/vendor/bundle/ruby/2.5.0/gems/byebug-11.1.1/ext/byebug
+/home/rejka/.rbenv/versions/2.5.1/bin/ruby -I /home/rejka/.rbenv/versions/2.5.1/lib/ruby/site_ruby/2.5.0 -r ./siteconf20200318-21086-14zdpcf.rb extconf.rb
+creating Makefile
+
+current directory: /home/rejka/Documents/latihan_project/auctions/vendor/bundle/ruby/2.5.0/gems/byebug-11.1.1/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /home/rejka/Documents/latihan_project/auctions/vendor/bundle/ruby/2.5.0/gems/byebug-11.1.1/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.so
+
+current directory: /home/rejka/Documents/latihan_project/auctions/vendor/bundle/ruby/2.5.0/gems/byebug-11.1.1/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.so ./.gem.20200318-21086-jj8led/byebug

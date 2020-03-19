@@ -1,0 +1,15 @@
+current directory: /home/rejka/Documents/latihan_project/auctions/vendor/bundle/ruby/2.5.0/gems/bindex-0.8.1/ext/skiptrace
+/home/rejka/.rbenv/versions/2.5.1/bin/ruby -I /home/rejka/.rbenv/versions/2.5.1/lib/ruby/site_ruby/2.5.0 -r ./siteconf20200318-21086-1nth4mv.rb extconf.rb
+creating Makefile
+
+current directory: /home/rejka/Documents/latihan_project/auctions/vendor/bundle/ruby/2.5.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /home/rejka/Documents/latihan_project/auctions/vendor/bundle/ruby/2.5.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.so
+
+current directory: /home/rejka/Documents/latihan_project/auctions/vendor/bundle/ruby/2.5.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.so ./.gem.20200318-21086-1dw74em/skiptrace/internal

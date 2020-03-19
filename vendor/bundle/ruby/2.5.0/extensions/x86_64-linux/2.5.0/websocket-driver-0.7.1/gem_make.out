@@ -1,0 +1,15 @@
+current directory: /home/rejka/Documents/latihan_project/auctions/vendor/bundle/ruby/2.5.0/gems/websocket-driver-0.7.1/ext/websocket-driver
+/home/rejka/.rbenv/versions/2.5.1/bin/ruby -I /home/rejka/.rbenv/versions/2.5.1/lib/ruby/site_ruby/2.5.0 -r ./siteconf20200318-21086-15wjfps.rb extconf.rb
+creating Makefile
+
+current directory: /home/rejka/Documents/latihan_project/auctions/vendor/bundle/ruby/2.5.0/gems/websocket-driver-0.7.1/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /home/rejka/Documents/latihan_project/auctions/vendor/bundle/ruby/2.5.0/gems/websocket-driver-0.7.1/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /home/rejka/Documents/latihan_project/auctions/vendor/bundle/ruby/2.5.0/gems/websocket-driver-0.7.1/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 websocket_mask.so ./.gem.20200318-21086-21aai2
